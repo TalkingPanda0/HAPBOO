@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hapboo_animated"
+ 	"$surfaceprop" "Default"
+	"Proxies" 
+	{
+	"AnimatedTexture"
+	{
+		"animatedTextureVar" "$basetexture"
+		"animatedTextureFrameNumVar" "$frame"
+		"animatedTextureFrameRate" "12"
+	}
+	}
+}
+
